@@ -6,4 +6,4 @@ In dem Ordner Code befinden sich drei Jupyter Notebook Dateien. Umwandlung.ipynb
 
 Die visuellen Ergebnisse liegen in den Ordnern PlotsCars, PlotsToyStory und PlotsAlleFilme.
 
-Gruber_CA_PixarfilmePDF.pdf ist die schriftliche Ausarbeitung.
+Gruber_CA_Pixarfilm.pdf ist die schriftliche Ausarbeitung.
